@@ -20,7 +20,7 @@
     "@types/react": "^18.0.17",
     "@types/react-dom": "^18.0.6",
     "@types/webpack-bundle-analyzer": "^4.4.2",
-    "@typescript-eslint/parser": "^5.33.1",
+    "@typescript-eslint/parser": "^5.44.0",
     "assert": "^2.0.0",
     "css-loader": "^6.7.1",
     "csstype": "^3.1.0",
