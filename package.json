@@ -12,7 +12,7 @@
     "eslint": "npx eslint --quiet . --ext .ts --ext .tsx --fix"
   },
   "dependencies": {
-    "@types/chrome": "^0.0.193",
+    "@types/chrome": "^0.0.202",
     "@types/fs-extra": "^9.0.13",
     "@types/minimist": "^1.2.2",
     "@types/mocha": "^9.1.1",
